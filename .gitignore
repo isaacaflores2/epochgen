@@ -23,3 +23,16 @@ go.work.sum
 
 # env file
 .env
+
+# Binary files
+/bin/**
+
+# Default ignored files
+.idea/**
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
